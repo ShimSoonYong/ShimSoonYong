@@ -12,10 +12,10 @@ My ultimate goal is to develop **Efficient & Robust Video Processing Architectur
 ## Research & Projects
 
 ### 1. Benchmark & Optimization for Video Restoration (MEDISYS Lab Intern)
-*Conducted an extensive evaluation of SOTA video deblurring models (EDVR, MIMO-U-Net, ReBotNet, 3D U-Net) focusing on the trade-off between restoration quality (PSNR) and inference latency.*
-- **OOM Optimization:** Resolved severe Out-of-Memory (OOM) issues in 3D CNNs by analyzing multi-branch activation map retention, successfully reducing memory footprints via patch size and channel dimension optimization.
-- **Model Profiling:** Evaluated latency vs. PSNR, identifying MIMO-U-Net as the optimal balance for practical deployment.
-- **Debugging & Open Source:** Identified critical parameter discrepancies in ReBotNet (~3.2M claimed vs. ~133M actual) and handled dimension mismatch errors during training.
+*Conducted an extensive evaluation of SOTA video deblurring models, focusing on the trade-off between restoration quality (PSNR) and inference latency.*
+- **Memory Optimization:** Resolved severe Out-of-Memory (OOM) issues in 3D CNNs by analyzing multi-branch activation map retention, successfully reducing memory footprints via patch size and channel dimension optimization.
+- **Model Profiling:** Evaluated latency vs. PSNR, identifying the best model as the optimal balance for practical deployment.
+- **Debugging & Open Source:** Handled dimension mismatch errors of open source models during training.
 
 ### 2. ZClassifier (OOD Detection)
 *[`ZClassifier` Repository](https://github.com/ShimSoonYong/ZClassifier)* | *[arXiv Paper](https://arxiv.org/abs/2507.10638)*
