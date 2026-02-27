@@ -23,7 +23,7 @@ My ultimate goal is to develop **Efficient & Robust Video Processing Architectur
 
 ## 🧠 Current Interests
 Currently exploring how to make video processing lighter and smarter for Edge/On-Device environments:
-- **Efficient Temporal Modeling:** Moving away from heavy 3D convolutions towards Latent Predictive Architectures (e.g., concepts from V-JEPA) and Tiny Models.
+- **Efficient Temporal Modeling:** Moving away from heavy 3D convolutions/attentions towards Latent Predictive Architectures (e.g., concepts from V-JEPA) and recursive Models.
 - **Resource-Constrained Optimization:** Model compression and inference acceleration.
 - **Robustness & Domain Generalization:** Ensuring stability in noisy, real-world vision tasks via generative priors and physics-based augmentation.
 
