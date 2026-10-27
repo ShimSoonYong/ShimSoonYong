@@ -1,5 +1,15 @@
 # Hi, I'm Soon-yong Shim
 
+<div align="left">
+  <a href="#-license">
+    <img src="https://img.shields.io/badge/License-FREE_TO_WORK-brightgreen?style=for-the-badge&logo=github" alt="License: FREE TO WORK" />
+  </a>
+  <a href="mailto:simsoonyong@g.skku.edu">
+    <img src="https://img.shields.io/badge/Status-Open_to_Offers-blue?style=for-the-badge&logo=gmail" alt="Status: Open to Offers" />
+  </a>
+</div>
+
+
 I am an **M.S.-Ph.D. Integrated Student** in the Department of Artificial Intelligence at **Sungkyunkwan University (SKKU)**. Building upon my undergraduate background in Business Management and Data Science from Yonsei University, my research now focuses on bridging theoretical deep learning with practical, resource-constrained deployments. 
 
 My ultimate goal is to develop **Efficient & Robust Video Processing Architectures** suitable for **resource-constrained** AI environments. I value evidence-based methods, architectural optimization, and clear analytical reasoning.
@@ -30,3 +40,31 @@ Currently exploring how to make video processing lighter and smarter for Edge/On
 ## 📫 Contact
 - **Email:** simsoonyong@g.skku.edu
 - Open to research discussions regarding Deep Learning, Spatiotemporal Modeling, and Efficient AI.
+
+## 📄 License
+
+This developer is licensed under the **MIT (Motivated Individual Talent) License** — see below for details.
+
+<details>
+<summary><b>🔍 Click to view full <code>FREE TO WORK</code> License</b></summary>
+<br>
+
+```text
+The MIT (Motivated Individual Talent) License
+
+Copyright (c) 2026 ShimSoonYong
+
+Permission is hereby granted, hassle-free, to any company, lab, or engineering team
+obtaining a copy of this profile and associated repositories (the "Candidate"),
+to onboard the Candidate without restriction, including without limitation the rights
+to interview, hire, train models, refactor architectures, and deploy to production,
+subject to the following conditions:
+
+The above copyright notice and a competitive compensation package shall be included in all offer letters or substantial portions
+of the employment contract.
+
+THE CANDIDATE IS PROVIDED "HIGHLY MOTIVATED", WITHOUT WARRANTY OF ZERO BUGS OR
+INSTANT CONVERGENCE, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+OF CAFFEINE DEPENDENCY, CLEAN CODE, AND FITNESS FOR A PARTICULAR RESEARCH
+OR PRODUCTION TEAM. IN NO EVENT SHALL THE CANDIDATE BE LIABLE FOR LEGACY CODE WRITTEN
+BEFORE ONBOARDING, THOUGH WILLING TO REFACTOR IT HAPPILY.
